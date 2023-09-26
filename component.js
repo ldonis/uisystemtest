@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { View, Text, TouchableHighlight, StyleSheet } from "react-native";
 
 // · 
-class LesliButton extends Component {
+class ZigiButton extends Component {
     constructor(props) {
         super(props);
 
@@ -23,3 +23,5 @@ class LesliButton extends Component {
         );
     }
 }
+
+export default ZigiButton;
